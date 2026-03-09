@@ -2,8 +2,6 @@
   <strong>Damion Rashford</strong>
   <br>
   Developer Support · Shopify
-  <br>
-  <sub>Calgary, Canada</sub>
 </p>
 
 <p align="center">
