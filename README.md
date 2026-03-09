@@ -20,7 +20,7 @@ I build MCP servers, AI agents, and developer tools. Currently working at Shopif
 
 ---
 
-### Projects
+### Projects I'm working on
 
 | Project | What it is |
 |---------|------------|
