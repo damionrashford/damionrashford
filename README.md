@@ -23,19 +23,25 @@ I build MCP servers, AI agents, and developer tools. Currently working at Shopif
 
 ### Projects
 
-**MCP Servers & Plugins**
+**MCP Servers**
+
+| Project | Description |
+|---------|-------------|
+| [**RivalSearchMCP**](https://github.com/damionrashford/RivalSearchMCP) | Deep research & competitor analysis MCP for Claude & Cursor. Web search, social media, trends, OCR. No API keys. |
+| [**shopify-changelog-mcp**](https://github.com/damionrashford/shopify-changelog-mcp) | MCP server for Shopify changelogs — search updates, find breaking changes, fetch full post content. |
+| [**llms-txt-generator-mcp**](https://github.com/damionrashford/llms-txt-generator-mcp) | MCP server that auto-generates llms.txt and llms-full.txt for any website. |
+| [**mcp-browser-exploration**](https://github.com/damionrashford/mcp-browser-exploration) | Research into running MCP in the browser — approaches to bridge browser environments and MCP servers. |
+| + 7 more | LinkedIn, travel, Shopify APIs, and internal tools. |
+
+**Plugins & Agents**
 
 | Project | Description |
 |---------|-------------|
 | [**RivalSearch-Plugin**](https://github.com/damionrashford/RivalSearch-Plugin) | Claude Code plugin — 10 MCP tools, 5 agent skills, 6 research agents. Zero API keys. |
 | [**mlx**](https://github.com/damionrashford/mlx) | ML workbench plugin for Claude Code — 14 skills, 6 agents covering research through deployment. |
-| + 7 more | Search, LinkedIn, travel, Shopify APIs, and internal tools. |
-
-**Agents**
-
-| Project | Description |
-|---------|-------------|
 | [**auton**](https://github.com/damionrashford/auton) | Autonomous agent — persistent memory, goals, scheduling, MCP, messaging (Slack, Telegram, WhatsApp). Zero dependencies. |
+| [**RivalSearchAgent**](https://github.com/damionrashford/RivalSearchAgent) | Research agent powered by RivalSearchMCP with RAG for CLI, API, and library integration. |
+| [**ai-triad-model**](https://github.com/damionrashford/ai-triad-model) | Multi-agent framework — Planner, Executor, Evaluator, Oversight. Structured coordination with transparent decision-making. |
 
 **ML**
 
