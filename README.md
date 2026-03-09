@@ -22,30 +22,14 @@ I build MCP servers, AI agents, and developer tools. Currently working at Shopif
 
 ### Projects
 
-**MCP Servers**
-
-| Project | Description |
-|---------|-------------|
-| [**RivalSearchMCP**](https://github.com/damionrashford/RivalSearchMCP) | Deep research & competitor analysis MCP for Claude & Cursor. Web search, social media, trends, OCR. No API keys. |
-| [**shopify-changelog-mcp**](https://github.com/damionrashford/shopify-changelog-mcp) | MCP server for Shopify changelogs — search updates, find breaking changes, fetch full post content. |
-| [**llms-txt-generator-mcp**](https://github.com/damionrashford/llms-txt-generator-mcp) | MCP server that auto-generates llms.txt and llms-full.txt for any website. |
-| + 7 more | LinkedIn, travel, Shopify APIs, and internal tools. |
-
-**Plugins & Agents**
-
-| Project | Description |
-|---------|-------------|
-| [**RivalSearch-Plugin**](https://github.com/damionrashford/RivalSearch-Plugin) | Claude Code plugin — 10 MCP tools, 5 agent skills, 6 research agents. Zero API keys. |
+| Project | What it is |
+|---------|------------|
+| [**RivalSearchMCP**](https://github.com/damionrashford/RivalSearchMCP) | MCP server for deep research & competitor analysis. Web search, social media, trends, OCR. No API keys. |
 | [**mlx**](https://github.com/damionrashford/mlx) | ML workbench plugin for Claude Code — 14 skills, 6 agents covering research through deployment. |
 | [**auton**](https://github.com/damionrashford/auton) | Autonomous agent — persistent memory, goals, scheduling, MCP, messaging (Slack, Telegram, WhatsApp). Zero dependencies. |
-| [**RivalSearchAgent**](https://github.com/damionrashford/RivalSearchAgent) | Research agent powered by RivalSearchMCP with RAG for CLI, API, and library integration. |
-| [**ai-triad-model**](https://github.com/damionrashford/ai-triad-model) | Multi-agent framework — Planner, Executor, Evaluator, Oversight. Structured coordination with transparent decision-making. |
-
-**ML**
-
-| Project | Description |
-|---------|-------------|
 | [**nba-predict**](https://github.com/damionrashford/nba-predict) | NBA game predictions — XGBoost, 200 features, 26 seasons. Winners, spreads, player stats, MVP, win totals. |
+| [**RivalSearch-Plugin**](https://github.com/damionrashford/RivalSearch-Plugin) | Claude Code plugin — 10 MCP tools, 5 agent skills, 6 research agents. Zero API keys. |
+| [**shopify-changelog-mcp**](https://github.com/damionrashford/shopify-changelog-mcp) | MCP server for Shopify changelogs — search updates, find breaking changes, fetch full post content. |
 
 ---
 
