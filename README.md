@@ -1,56 +1,38 @@
-# Hey, I'm Damion
+### Damion Rashford
 
-**Senior Developer Support @ Shopify** — I build AI agents and developer tools on nights and weekends while supporting thousands of merchants by day.
+Senior Developer Support (Backend) at Shopify. Building AI agents, MCP servers, and ML systems.
 
-4 years at Shopify. 5 promotions. I went from junior support advisor to senior backend developer support, and along the way I became obsessed with building tools that make developers faster — MCP servers, autonomous agents, and ML systems.
-
----
-
-### What I build
-
-**Developer Tools & MCP Servers**
-
-- **[RivalSearch-Plugin](https://github.com/damionrashford/RivalSearch-Plugin)** — Claude Code plugin with 10 MCP tools, 5 agent skills, and 6 AI research agents. Zero API keys.
-- **[mlx](https://github.com/damionrashford/mlx)** — Full-lifecycle ML workbench for Claude Code. 14 skills, 6 agents — research papers, prep data, train models, deploy. Zero API keys.
-- 7+ production MCP servers built and maintained (search, LinkedIn, travel, Shopify APIs, and more)
-
-**Autonomous Agents**
-
-- **[auton](https://github.com/damionrashford/auton)** — Autonomous AI agent with persistent memory, goals, scheduling, and messaging (Slack, Telegram, WhatsApp). Zero dependencies.
-- Multi-agent systems with orchestration, delegation, and tool use
-
-**Applied ML** *(learning in public)*
-
-- **[nba-predict](https://github.com/damionrashford/nba-predict)** — Predict NBA game winners, spreads, player stats, MVP races. XGBoost + 200 features + 26 seasons of data.
-- **[autoresearch](https://github.com/damionrashford/autoresearch)** — AI agents that autonomously run ML experiments on single-GPU training. 8-10 experiments/hour with auto keep/discard.
-- Currently working through a structured ML upskilling path — foundations through production ML — targeting applied ML engineering roles.
+4 years at Shopify · 5 promotions · Calgary, Canada
 
 ---
 
-### Day job
+#### MCP Servers & Developer Tools
 
-At Shopify I support developers and merchants building on the platform — GraphQL APIs, REST, webhooks, Liquid, Shopify Functions, checkout, subscriptions. I debug complex API issues, write documentation, mentor teammates, and collaborate with Product and Engineering.
+[**RivalSearch-Plugin**](https://github.com/damionrashford/RivalSearch-Plugin) — Claude Code plugin. 10 MCP tools, 5 agent skills, 6 research agents. Zero API keys.
 
-The support work is what got me into building tools. I kept seeing the same problems and started automating them — first with scripts, then with MCP servers, then with full agent systems.
+[**mlx**](https://github.com/damionrashford/mlx) — ML workbench plugin for Claude Code. 14 skills across research, data prep, training, and deployment. 6 specialized agents.
 
----
+7 additional production MCP servers — search, LinkedIn, travel, Shopify APIs.
 
-### Stack
+#### Autonomous Agents
 
-**Languages:** Python, TypeScript, JavaScript, SQL, GraphQL, Liquid
+[**auton**](https://github.com/damionrashford/auton) — Autonomous agent with persistent memory, goal tracking, scheduling, and MCP support. Connects to Slack, Telegram, WhatsApp. Zero dependencies.
 
-**AI/Agents:** MCP Protocol, Claude Code plugins, RAG, LLM integration (Claude, OpenAI, xAI/Grok), multi-agent architectures
+#### Applied ML
 
-**Web:** React, Node.js, FastAPI, Express, Vite
+[**nba-predict**](https://github.com/damionrashford/nba-predict) — NBA game predictions. XGBoost, 200 engineered features, 26 seasons of data. Game winners, point spreads, player stats, MVP, win totals.
 
-**Data/ML:** XGBoost, scikit-learn, pandas, Jupyter, experiment automation
-
----
-
-### Where I'm headed
-
-I'm working toward AI engineering and applied ML roles. I'm not there yet — I'm bridging the gap between building agent systems (which I know well) and production ML (which I'm actively learning). The `ml-engineer-research` repo on my profile is the structured plan.
+[**autoresearch**](https://github.com/damionrashford/autoresearch) — Automated ML experiment runner. Single-GPU training with autonomous keep/discard decisions. ~8 experiments/hour.
 
 ---
 
-<sub>Calgary, Canada · Shopify · [rivalsearchmcp.com](https://rivalsearchmcp.com)</sub>
+```
+Python · TypeScript · JavaScript · SQL · GraphQL · Liquid
+MCP Protocol · Claude Code Plugins · RAG · Multi-Agent Systems
+React · Node.js · FastAPI · Vite
+XGBoost · scikit-learn · pandas · Jupyter
+```
+
+---
+
+<sub>[rivalsearchmcp.com](https://rivalsearchmcp.com)</sub>
