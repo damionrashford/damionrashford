@@ -1,15 +1,12 @@
 <p align="center">
   <strong>Damion Rashford</strong>
   <br>
-  Senior Developer Support (Backend) · Shopify
+  Developer Support · Shopify
   <br>
-  <sub>Calgary, Canada · 4 years · 5 promotions</sub>
+  <sub>Calgary, Canada</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/damionrashford">
-    <img src="https://img.shields.io/badge/GitHub-damionrashford-181717?style=flat&logo=github" alt="GitHub">
-  </a>
   <a href="https://linkedin.com/in/damionrashford">
     <img src="https://img.shields.io/badge/LinkedIn-damionrashford-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
@@ -20,9 +17,7 @@
 
 ---
 
-I build MCP servers, AI agents, and developer tools at Shopify. During the day I support developers building on Shopify's APIs — GraphQL, REST, webhooks, Liquid, checkout, subscriptions. Outside of work I build the tools I wish existed.
-
-Currently learning applied ML and working toward AI engineering roles.
+I build MCP servers, AI agents, and developer tools. Currently working at Shopify supporting developers on APIs, GraphQL, webhooks, and Liquid. Learning applied ML.
 
 ---
 
@@ -34,7 +29,7 @@ Currently learning applied ML and working toward AI engineering roles.
 |---------|-------------|
 | [**RivalSearch-Plugin**](https://github.com/damionrashford/RivalSearch-Plugin) | Claude Code plugin — 10 MCP tools, 5 agent skills, 6 research agents. Zero API keys. |
 | [**mlx**](https://github.com/damionrashford/mlx) | ML workbench plugin for Claude Code — 14 skills, 6 agents covering research through deployment. |
-| + 7 more | Search, LinkedIn, travel, Shopify APIs, and internal tools used across teams. |
+| + 7 more | Search, LinkedIn, travel, Shopify APIs, and internal tools. |
 
 **Agents**
 
