@@ -1,38 +1,77 @@
-### Damion Rashford
+<p align="center">
+  <strong>Damion Rashford</strong>
+  <br>
+  Senior Developer Support (Backend) · Shopify
+  <br>
+  <sub>Calgary, Canada · 4 years · 5 promotions</sub>
+</p>
 
-Senior Developer Support (Backend) at Shopify. Building AI agents, MCP servers, and ML systems.
-
-4 years at Shopify · 5 promotions · Calgary, Canada
-
----
-
-#### MCP Servers & Developer Tools
-
-[**RivalSearch-Plugin**](https://github.com/damionrashford/RivalSearch-Plugin) — Claude Code plugin. 10 MCP tools, 5 agent skills, 6 research agents. Zero API keys.
-
-[**mlx**](https://github.com/damionrashford/mlx) — ML workbench plugin for Claude Code. 14 skills across research, data prep, training, and deployment. 6 specialized agents.
-
-7 additional production MCP servers — search, LinkedIn, travel, Shopify APIs.
-
-#### Autonomous Agents
-
-[**auton**](https://github.com/damionrashford/auton) — Autonomous agent with persistent memory, goal tracking, scheduling, and MCP support. Connects to Slack, Telegram, WhatsApp. Zero dependencies.
-
-#### Applied ML
-
-[**nba-predict**](https://github.com/damionrashford/nba-predict) — NBA game predictions. XGBoost, 200 engineered features, 26 seasons of data. Game winners, point spreads, player stats, MVP, win totals.
-
-[**autoresearch**](https://github.com/damionrashford/autoresearch) — Automated ML experiment runner. Single-GPU training with autonomous keep/discard decisions. ~8 experiments/hour.
+<p align="center">
+  <a href="https://github.com/damionrashford">
+    <img src="https://img.shields.io/badge/GitHub-damionrashford-181717?style=flat&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/damionrashford">
+    <img src="https://img.shields.io/badge/LinkedIn-damionrashford-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://rivalsearchmcp.com">
+    <img src="https://img.shields.io/badge/Web-rivalsearchmcp.com-4285F4?style=flat&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+</p>
 
 ---
 
-```
-Python · TypeScript · JavaScript · SQL · GraphQL · Liquid
-MCP Protocol · Claude Code Plugins · RAG · Multi-Agent Systems
-React · Node.js · FastAPI · Vite
-XGBoost · scikit-learn · pandas · Jupyter
-```
+I build MCP servers, AI agents, and developer tools at Shopify. During the day I support developers building on Shopify's APIs — GraphQL, REST, webhooks, Liquid, checkout, subscriptions. Outside of work I build the tools I wish existed.
+
+Currently learning applied ML and working toward AI engineering roles.
 
 ---
 
-<sub>[rivalsearchmcp.com](https://rivalsearchmcp.com)</sub>
+### Projects
+
+**MCP Servers & Plugins**
+
+| Project | Description |
+|---------|-------------|
+| [**RivalSearch-Plugin**](https://github.com/damionrashford/RivalSearch-Plugin) | Claude Code plugin — 10 MCP tools, 5 agent skills, 6 research agents. Zero API keys. |
+| [**mlx**](https://github.com/damionrashford/mlx) | ML workbench plugin for Claude Code — 14 skills, 6 agents covering research through deployment. |
+| + 7 more | Search, LinkedIn, travel, Shopify APIs, and internal tools used across teams. |
+
+**Agents**
+
+| Project | Description |
+|---------|-------------|
+| [**auton**](https://github.com/damionrashford/auton) | Autonomous agent — persistent memory, goals, scheduling, MCP, messaging (Slack, Telegram, WhatsApp). Zero dependencies. |
+
+**ML**
+
+| Project | Description |
+|---------|-------------|
+| [**nba-predict**](https://github.com/damionrashford/nba-predict) | NBA game predictions — XGBoost, 200 features, 26 seasons. Winners, spreads, player stats, MVP, win totals. |
+| [**autoresearch**](https://github.com/damionrashford/autoresearch) | Automated ML experiment runner — single-GPU training, ~8 experiments/hour, autonomous keep/discard. |
+
+---
+
+### Tech
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MCP_Protocol-F97316?style=flat" alt="MCP Protocol">
+  <img src="https://img.shields.io/badge/Claude_Code-7C3AED?style=flat" alt="Claude Code">
+  <img src="https://img.shields.io/badge/RAG-10B981?style=flat" alt="RAG">
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-6366F1?style=flat" alt="Multi-Agent Systems">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat" alt="XGBoost">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+</p>
