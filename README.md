@@ -1,43 +1,56 @@
-# Hey, I'm Damion 👋
+# Hey, I'm Damion
 
-**ML Engineer @ Shopify** — I build AI agents and applied machine learning systems.
+**Senior Developer Support @ Shopify** — I build AI agents and developer tools on nights and weekends while supporting thousands of merchants by day.
 
-I work at the intersection of ML and agent infrastructure: training models, automating research experiments, and building developer tools that make ML workflows faster.
-
----
-
-### What I'm building
-
-🏀 **[nba-predict](https://github.com/damionrashford/nba-predict)** — Predict NBA game winners, point spreads, player stats, and season outcomes. XGBoost + 200 engineered features + 26 seasons of data. Includes an autonomous experiment loop that runs 8-10 experiments/hour.
-
-🔬 **[autoresearch](https://github.com/damionrashford/autoresearch)** — AI agents that autonomously run ML research experiments on single-GPU training. Automated keep/discard decisions, one-variable-per-experiment discipline.
-
-🧪 **[mlx](https://github.com/damionrashford/mlx)** — Full-lifecycle ML workbench plugin for Claude Code. 14 skills covering research → data prep → training → deployment. 6 specialized agents. Searches 7 academic sources and 5 dataset repositories. Zero API keys.
-
-🤖 **[auton](https://github.com/damionrashford/auton)** — Autonomous AI agent with persistent memory, goals, scheduling, and MCP integration. Connects to Slack, Telegram, and WhatsApp. Zero npm dependencies, OpenAI-compatible.
-
-🔍 **[RivalSearch-Plugin](https://github.com/damionrashford/RivalSearch-Plugin)** — Claude Code plugin with 10 MCP tools, 5 agent skills, and 6 AI research agents for comprehensive web, social, and academic research.
+4 years at Shopify. 5 promotions. I went from junior support advisor to senior backend developer support, and along the way I became obsessed with building tools that make developers faster — MCP servers, autonomous agents, and ML systems.
 
 ---
 
-### How I work
+### What I build
 
-I use AI agents as tools — not to replace thinking, but to move 10x faster. I focus on knowing **what to build**, **how to evaluate it**, and **when something is wrong**. The agents write the code. I make the decisions.
+**Developer Tools & MCP Servers**
 
-My workflow: identify a problem → build a system → automate the repetitive parts → extract the pattern into a reusable tool.
+- **[RivalSearch-Plugin](https://github.com/damionrashford/RivalSearch-Plugin)** — Claude Code plugin with 10 MCP tools, 5 agent skills, and 6 AI research agents. Zero API keys.
+- **[mlx](https://github.com/damionrashford/mlx)** — Full-lifecycle ML workbench for Claude Code. 14 skills, 6 agents — research papers, prep data, train models, deploy. Zero API keys.
+- 7+ production MCP servers built and maintained (search, LinkedIn, travel, Shopify APIs, and more)
+
+**Autonomous Agents**
+
+- **[auton](https://github.com/damionrashford/auton)** — Autonomous AI agent with persistent memory, goals, scheduling, and messaging (Slack, Telegram, WhatsApp). Zero dependencies.
+- Multi-agent systems with orchestration, delegation, and tool use
+
+**Applied ML** *(learning in public)*
+
+- **[nba-predict](https://github.com/damionrashford/nba-predict)** — Predict NBA game winners, spreads, player stats, MVP races. XGBoost + 200 features + 26 seasons of data.
+- **[autoresearch](https://github.com/damionrashford/autoresearch)** — AI agents that autonomously run ML experiments on single-GPU training. 8-10 experiments/hour with auto keep/discard.
+- Currently working through a structured ML upskilling path — foundations through production ML — targeting applied ML engineering roles.
+
+---
+
+### Day job
+
+At Shopify I support developers and merchants building on the platform — GraphQL APIs, REST, webhooks, Liquid, Shopify Functions, checkout, subscriptions. I debug complex API issues, write documentation, mentor teammates, and collaborate with Product and Engineering.
+
+The support work is what got me into building tools. I kept seeing the same problems and started automating them — first with scripts, then with MCP servers, then with full agent systems.
 
 ---
 
 ### Stack
 
-**ML/Data:** Python, XGBoost, scikit-learn, pandas, PyTorch, Jupyter
+**Languages:** Python, TypeScript, JavaScript, SQL, GraphQL, Liquid
 
-**Agents/Tools:** MCP, Claude Code plugins, autonomous agent loops, experiment automation
+**AI/Agents:** MCP Protocol, Claude Code plugins, RAG, LLM integration (Claude, OpenAI, xAI/Grok), multi-agent architectures
 
-**Web/Apps:** TypeScript, React, Node.js, GraphQL, Shopify APIs
+**Web:** React, Node.js, FastAPI, Express, Vite
 
-**Infra:** Git, Docker, Vite, REST APIs
+**Data/ML:** XGBoost, scikit-learn, pandas, Jupyter, experiment automation
 
 ---
 
-<sub>Calgary, Canada · [rivalsearchmcp.com](https://rivalsearchmcp.com)</sub>
+### Where I'm headed
+
+I'm working toward AI engineering and applied ML roles. I'm not there yet — I'm bridging the gap between building agent systems (which I know well) and production ML (which I'm actively learning). The `ml-engineer-research` repo on my profile is the structured plan.
+
+---
+
+<sub>Calgary, Canada · Shopify · [rivalsearchmcp.com](https://rivalsearchmcp.com)</sub>
