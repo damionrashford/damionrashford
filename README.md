@@ -30,7 +30,6 @@ I build MCP servers, AI agents, and developer tools. Currently working at Shopif
 | [**RivalSearchMCP**](https://github.com/damionrashford/RivalSearchMCP) | Deep research & competitor analysis MCP for Claude & Cursor. Web search, social media, trends, OCR. No API keys. |
 | [**shopify-changelog-mcp**](https://github.com/damionrashford/shopify-changelog-mcp) | MCP server for Shopify changelogs — search updates, find breaking changes, fetch full post content. |
 | [**llms-txt-generator-mcp**](https://github.com/damionrashford/llms-txt-generator-mcp) | MCP server that auto-generates llms.txt and llms-full.txt for any website. |
-| [**mcp-browser-exploration**](https://github.com/damionrashford/mcp-browser-exploration) | Research into running MCP in the browser — approaches to bridge browser environments and MCP servers. |
 | + 7 more | LinkedIn, travel, Shopify APIs, and internal tools. |
 
 **Plugins & Agents**
