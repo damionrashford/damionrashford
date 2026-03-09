@@ -42,7 +42,6 @@ I build MCP servers, AI agents, and developer tools. Currently working at Shopif
 | Project | Description |
 |---------|-------------|
 | [**nba-predict**](https://github.com/damionrashford/nba-predict) | NBA game predictions — XGBoost, 200 features, 26 seasons. Winners, spreads, player stats, MVP, win totals. |
-| [**autoresearch**](https://github.com/damionrashford/autoresearch) | Automated ML experiment runner — single-GPU training, ~8 experiments/hour, autonomous keep/discard. |
 
 ---
 
